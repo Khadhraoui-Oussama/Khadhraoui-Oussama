@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning : Full Stack Web Development
-- 📫 How to reach me : kdhd.oussama@gmail.com
+- 📫 How to reach me : khdh.oussama@gmail.com
