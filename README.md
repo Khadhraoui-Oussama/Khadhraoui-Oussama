@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Khadhraoui Oussama , a software engineering student.
+I'm Oussama Khadhraoui , a software engineering student.
 <!--
 **Khadhraoui-Oussama/Khadhraoui-Oussama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
